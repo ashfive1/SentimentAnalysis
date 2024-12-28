@@ -1,0 +1,945 @@
+[
+    {
+        "text": "Clearly, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, how does this feature even work? it's not clear at all.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, i thought this was supposed to be easy to set up, but i'm completely lost.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, really? another feature that doesn't work? how surprising.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, how does this feature even work? it's not clear at all.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, really? another feature that doesn't work? how surprising.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, fantastic! it arrived a week early and works flawlessly.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, how does this feature even work? it's not clear at all.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, how does this feature even work? it's not clear at all.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, i absolutely love this product it's perfect in every way!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, really? another feature that doesn't work? how surprising.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, really? another feature that doesn't work? how surprising.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, how does this feature even work? it's not clear at all.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, fantastic! it arrived a week early and works flawlessly.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, i thought this was supposed to be easy to set up, but i'm completely lost.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, fantastic! it arrived a week early and works flawlessly.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, i thought this was supposed to be easy to set up, but i'm completely lost.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, i absolutely love this product it's perfect in every way!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, i don't understand how to assemble this the manual is confusing.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, i don't understand how to assemble this the manual is confusing.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, i absolutely love this product it's perfect in every way!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, really? another feature that doesn't work? how surprising.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, i don't understand how to assemble this the manual is confusing.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, i absolutely love this product it's perfect in every way!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, i thought this was supposed to be easy to set up, but i'm completely lost.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, i thought this was supposed to be easy to set up, but i'm completely lost.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, really? another feature that doesn't work? how surprising.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, i absolutely love this product it's perfect in every way!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, fantastic! it arrived a week early and works flawlessly.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, fantastic! it arrived a week early and works flawlessly.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, i don't understand how to assemble this the manual is confusing.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, how does this feature even work? it's not clear at all.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, i absolutely love this product it's perfect in every way!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, i don't understand how to assemble this the manual is confusing.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, i absolutely love this product it's perfect in every way!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, i thought this was supposed to be easy to set up, but i'm completely lost.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, i absolutely love this product it's perfect in every way!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, how does this feature even work? it's not clear at all.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, i don't understand how to assemble this the manual is confusing.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, i don't understand how to assemble this the manual is confusing.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, i thought this was supposed to be easy to set up, but i'm completely lost.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, really? another feature that doesn't work? how surprising.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, oh, just what i needed a broken device right out of the box.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, really? another feature that doesn't work? how surprising.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Honestly, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, i thought this was supposed to be easy to set up, but i'm completely lost.",
+        "label": "confusion"
+    },
+    {
+        "text": "Honestly, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, this is the worst experience i have had with customer service!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, i'm so happy with this purchase it exceeded all expectations!.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, the product arrived damaged, and i can't get a refund.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, great value for money! i'm extremely pleased with this product.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, this is the most frustrating purchase i've ever made!.",
+        "label": "anger"
+    },
+    {
+        "text": "In my opinion, i thought this was supposed to be easy to set up, but i'm completely lost.",
+        "label": "confusion"
+    },
+    {
+        "text": "Clearly, i thought this was supposed to be easy to set up, but i'm completely lost.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, i can't figure out how to use this, the instructions make no sense.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, how does this feature even work? it's not clear at all.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "Clearly, the quality is outstanding, and it performs better than expected.",
+        "label": "satisfaction"
+    },
+    {
+        "text": "In my opinion, oh wow, just what i wanted a feature that doesn't even exist!.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Honestly, terrible quality, and it broke after one use absolutely unacceptable!.",
+        "label": "anger"
+    },
+    {
+        "text": "Honestly, perfect timing! of course, it stopped working right before the deadline.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, really? another feature that doesn't work? how surprising.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "In my opinion, completely useless! i want my money back immediately.",
+        "label": "anger"
+    },
+    {
+        "text": "Clearly, amazing! nothing like waiting hours for customer service to hang up on you.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, how does this feature even work? it's not clear at all.",
+        "label": "confusion"
+    },
+    {
+        "text": "In my opinion, really? another feature that doesn't work? how surprising.",
+        "label": "sarcasm"
+    },
+    {
+        "text": "Clearly, this doesn't look anything like the pictures i'm so confused.",
+        "label": "confusion"
+    }]
